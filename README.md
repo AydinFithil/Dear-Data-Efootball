@@ -8,7 +8,6 @@ I am collecting data about the eFootball matches I play on my phone. My main que
 Each row in my spreadsheet is one match. For every match I record:
 - Match number
 - Date
-- Start time
 - Game mode (for example online match or AI event)
 - Goals for (the goals I scored)
 - Goals against (the goals I conceded)
