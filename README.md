@@ -15,7 +15,7 @@ Each row in my spreadsheet is one match. For every match I record:
 - Mood after the match, scored from 1 (low) to 5 (high)
 
 ## My progress
-I have collected 100 of my target of 100 matches. I started collecting on 5 October 2026 and recorded each match straight after playing it.
+I have collected more than 100 matches, which was my target. I started collecting on 5 October 2026 and recorded each match straight after playing it.
 
 
 
@@ -30,5 +30,10 @@ Date: Matches recorded
 15/10/2026: 2
 16/10/2026: 9
 17/10/2026: 17
+18/10/2026: 23
+19/10/2026: 10
+20/10/2026: 3
+22/10/2026: 1
+23/10/2026: 4
 18/10/2026: 24
 19/10/2026: 11
